@@ -1,5 +1,5 @@
 import * as React from 'react';
 
-const Playground = () => 'Hello world!';
+const Playground = () => <span>Hello world!</span>;
 
 export default Playground;
