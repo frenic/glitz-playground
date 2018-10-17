@@ -20,3 +20,5 @@ const Text = styled.span({
 const Playground = () => <Text>Hello world!</Text>;
 
 export default Playground;
+
+export const title = 'Keyframes and animation';

@@ -12,3 +12,5 @@ const Playground = styled(applyClassName(ThirdPart), {
 });
 
 export default Playground;
+
+export const title = 'Use `applyClassName` with "third party" components';

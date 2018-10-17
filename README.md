@@ -16,7 +16,7 @@
 - [**2.1**](Playground.2.1.tsx) Dynamic style using props
 - [**2.2**](Playground.2.2.tsx) Enhance performance using memoization
 - [**2.3**](Playground.2.3.tsx) Compose style objects using `styled()`
-- [**2.3**](Playground.2.3.tsx) Styles are treated deeply (not shallowly)
+- [**2.4**](Playground.2.4.tsx) Styles are treated deeply (not shallowly)
 
 ## 3. Theming
 

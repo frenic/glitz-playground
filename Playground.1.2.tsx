@@ -15,3 +15,5 @@ const Text = styled.span({
 const Playground = () => <Text>Hello world!</Text>;
 
 export default Playground;
+
+export const title = 'Pseudo and advanced pseudo using `pseudo()` helper';

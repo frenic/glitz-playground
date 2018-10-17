@@ -24,3 +24,5 @@ const theme1: Theme = {
 const theme2: Theme = {
   textColor: 'coral',
 };
+
+export const title = 'Using theme';

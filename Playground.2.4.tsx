@@ -20,3 +20,5 @@ const Playground = styled(Hello, {
 });
 
 export default Playground;
+
+export const title = 'Styles are treated deeply (not shallowly)';

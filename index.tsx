@@ -24,7 +24,7 @@ render(
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
-        height: '100vh',
+        minHeight: '100vh',
         fontSize: 24,
       }}
     >

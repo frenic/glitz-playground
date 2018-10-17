@@ -16,3 +16,5 @@ const successStyle = memoize(
 );
 
 export default Playground;
+
+export const title = 'Enhance performance using memoization';

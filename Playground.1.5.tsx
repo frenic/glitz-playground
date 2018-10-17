@@ -19,3 +19,5 @@ const Playground = () => (
 );
 
 export default Playground;
+
+export const title = 'Mixing shorthand and longform problem';

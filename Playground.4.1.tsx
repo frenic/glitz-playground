@@ -12,3 +12,5 @@ const fontStyled = styled({
 const Playground = capsStyled(fontStyled(props => <styled.Span css={props.compose()}>Hello world!</styled.Span>));
 
 export default Playground;
+
+export const title = 'Create new `styled()` function with embedded style';

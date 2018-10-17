@@ -8,3 +8,5 @@ const Text = styled.span({
 const Playground = () => <Text>Hello world!</Text>;
 
 export default Playground;
+
+export const title = 'Create styled component with `styled.span()`';

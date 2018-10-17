@@ -10,3 +10,5 @@ const Playground = (props: PropType) => (
 );
 
 export default Playground;
+
+export const title = 'Dynamic style using props';

@@ -8,3 +8,5 @@ const Playground = styled(Hello, {
 });
 
 export default Playground;
+
+export const title = 'Compose style objects using `styled()`';
